@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div>
       <h1>About Page</h1>
-      <Button textInsideButton={1} bgColor="red" />
+      <Button textInsideButton="About Page" bgColor="red" />
     </div>
   );
 };
